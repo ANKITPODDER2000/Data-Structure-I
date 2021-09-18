@@ -11,3 +11,12 @@ During the computer programming process, identifying and using the appropriate d
 - Day1
   - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
   - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+- Day2
+  - [1. Two Sum](https://leetcode.com/problems/two-sum)
+  - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+- Day3
+  - [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)
+  - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+- Day4
+  - [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)
+  - [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)
